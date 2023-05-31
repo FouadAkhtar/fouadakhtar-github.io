@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.203" height="23.934">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#31b1e5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="mail" transform="translate(1.393 1)">
+        <path id="Path_1631" data-name="Path 1631" class="cls-1" d="M4.742 4h21.933a2.75 2.75 0 0 1 2.742 2.742v16.45a2.75 2.75 0 0 1-2.742 2.742H4.742A2.75 2.75 0 0 1 2 23.192V6.742A2.75 2.75 0 0 1 4.742 4z" transform="translate(-2 -4)"/>
+        <path id="Path_1632" data-name="Path 1632" class="cls-1" d="m29.417 6-13.708 9.6L2 6" transform="translate(-2 -3.258)"/>
+    </g>
+</svg>
